@@ -106,6 +106,6 @@ def process_prompt(prompt):
     return answer
 
 init_llm()
-path="Nithin_S_Resume1111.pdf"
+path="your path"
 process_document(path)
 
